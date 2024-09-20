@@ -4,14 +4,14 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Table of contents
 
--   [Overview](#overview)
-    -   [The challenge](#the-challenge)
-    -   [Screenshot](#screenshot)
-    -   [Links](#links)
--   [My process](#my-process)
-    -   [Built with](#built-with)
-    -   [What I learned](#what-i-learned)
-    -   [Continued development](#continued-development)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
 
 ## Overview
 
@@ -22,17 +22,17 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Ayako-Yokoe/recipe-page-main)
+- Live Site URL: [Add live site URL here](https://recipe-page-three-mauve.vercel.app/)
 
 ## My process
 
 ### Built with
 
--   Semantic HTML5 markup
--   CSS custom properties
--   CSS Grid
--   Mobile-first workflow
+- Semantic HTML5 markup
+- CSS custom properties
+- CSS Grid
+- Mobile-first workflow
 
 ### What I learned
 
@@ -41,21 +41,22 @@ I learned how to properly align the bullet points and numbers in lists, along wi
 ```css
 ul,
 ol {
-    list-style-position: outside;
-    padding-left: 10px;
-    margin: 0;
+  list-style-position: outside;
+  padding-left: 10px;
+  margin: 0;
 }
 ul li,
 ol li {
-    font-family: var(--font-family-secondary);
-    line-height: 1.5;
-    margin-bottom: 8px;
-    margin-left: 20px;
-    padding-left: 20px;
+  font-family: var(--font-family-secondary);
+  line-height: 1.5;
+  margin-bottom: 8px;
+  margin-left: 20px;
+  padding-left: 20px;
 }
 ```
 
 ### Continued development
 
 This time, I applied a mobile-first strategy. I'm aiming to become more comfortable with this approach as I continue developing apps.
+
 # recipe-page-main
